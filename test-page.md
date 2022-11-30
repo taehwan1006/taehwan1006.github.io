@@ -1,29 +1,17 @@
 ---
 title: Test Page
 layout: page
+comment: true
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+### 시작하면서
+# 정말 막막했습니다. 
+git은 어떻게 사용하는지 잘 모르고...
+# 까다로운 작업들이였지만 얼기설기 블로그에 테마는 적용 시켰습니다.
+하지만 생각보다 테마의 구조가 복잡하여 테스트 페이지를 바꿔보았습니다.
 
-[This is a link](#)
+[https://github.com/taehwan1006/taehwan1006.github.io](#)
 
-> This is a blockquote
+코딩할때 가장 먼저 보는 코드...
+> print("Hello World")
 
-`This is code`
-
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
